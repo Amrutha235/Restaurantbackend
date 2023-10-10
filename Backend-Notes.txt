@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+                      Restaurant Backend Creation Using JSON-SERVER
+                      ----------------------------------------------
+         1.CREATE A NEW FOLDER FOR BACKEND-restaurant-server
+         2.create package.json file-npm init
+         3.install json-server-npm i json-server(node_modules,package-lock.json)
+         4.create index.js file-(apply code for backend creation)
+         5.run server-nodeman index.js 
+        11. Axios
+        npm i Axios
+
+    12. Restcard Component for displaying the restaurant details as card format
+
+    13. React Router dom
+    
+        install - npm i react-router-dom
+
+        <BrowserRouter></BrowserRouter> - To render full Application routes
+        <Routes></Routes> - Used to hold multiple route
+        <Route/> - Used for a single route
